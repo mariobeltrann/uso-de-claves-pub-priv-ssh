@@ -16,3 +16,6 @@ Para finalizar comprobaremos que al intentar conectarnos mediante ssh no nos ped
 
 
 # Como configurar el acceso ssh en el GitHub
+
+En la esquina superior derecha de cualquier página, haga clic en la foto del perfil y, luego, en Settings (Configuración). En la sección "Acceso" de la barra lateral, haz clic en Claves SSH y GPG. Haga clic en Nueva clave SSH o en Agregar clave SSH.
+
